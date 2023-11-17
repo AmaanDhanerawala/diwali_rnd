@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840436675517",
+    "project_id": "diwali-rnd-90ab3",
+    "storage_bucket": "diwali-rnd-90ab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840436675517:android:5bd92de28871a0d42858d4",
+        "android_client_info": {
+          "package_name": "com.example.diwali_rnd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf9My88rQszY8EFHMGUH-yNoPQmPSSrx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="this_is_native_app_activity">This is Native App Activity</string>
+    <string name="back_to_flutter">Back to Flutter</string>
+</resources>
